@@ -2,6 +2,9 @@
 *.apk
 *.ap_
 
+*.jpg
+*.mp4
+
 # files for the dex VM
 *.dex
 
